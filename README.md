@@ -18,8 +18,8 @@ The goal is to uncover key insights related to sales volume, revenue, and produc
 
 ## Screenshots
 
+![Screenshot 2025-01-12 232916](https://github.com/user-attachments/assets/2238b222-b701-4a0e-91ff-25a00971e77b)
 
-![Screenshot 2025-01-12 232916](https://github.com/user-attachments/assets/79be0140-82dc-4446-9ea9-0052cb3e314e)
 
 ## Insights
 
